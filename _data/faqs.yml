@@ -1,0 +1,78 @@
+- question: Why should I outsource my database management?
+  answer: In today's competitive business environment, publishers need to leverage economies of scale wherever possible. Outsourcing your circulation and database management allows you to leverage our unparalleled fulfillment and audience relationship management expertise and infrastructure to reduce headcount, streamline operations, and focus your attention on developing new products and services.
+  section: Conversion
+
+- question: How much will it cost?
+  answer: Because every publishers' needs are unique to their business models, it is impossible to estimate your fulfillment costs without knowing specific information about your publications, circulations, and ancillary product offerings. <br /> <br /> Do not hesitate to contact us to tell us more about your specific needs or request a proposal.
+  section: Conversion
+
+- question: How long does the conversion process take?
+  answer: Every publishers' files are unique. As a result, there is no way to generalize the time a conversion will take. A Conversion Plan is developed for each customer which defines stages and timelines in advance of any conversion. <br /> <br /> Prior to each conversion, we request a complete master file, full set of reports, and duplicates of output such as issue files, invoices, renewals, financials, and any other documents produced from a recent issue close. Once those documents are received, Computer Fullfilment produces full statistics and replicates all output from the conversion test file to ensure that the replicated output matches the sample issue documents prior to scheduling the actual conversion.
+  section: Conversion
+
+- question: What types of products do you fulfill?
+  answer: |
+    Computer Fulfillment, Inc has specialized in meeting the needs of business publishers for nearly 50 years and prides itself in being a full-service provider.  In addition to handling all of your controlled and paid fulfillment needs, we can also:
+    <ul class="about-us-list">
+
+    <li>manage your digital edition delivery</li>
+    <li>file your BPA or ABC statements</li>
+    <li>host your online subscription forms</li>
+    <li>give you 24/7 access to your circulation data</li>
+    <li>broadcast fax or email your subscription renewal / acquisition efforts</li>
+    <li>Our MediaView, integrated audience relationship management solution allows you to integrate all of your data from all product channels into one master database, identify audience trends and develop new products, and engage your audience quickly using a broadcast email solution that seamlessly accommodates ten or ten million emails.</li>
+    </ul>
+  section: Services
+
+- question: Where are you located?
+  answer: Our offices are located in Billerica, MA, just outside of Boston.
+  section: Services
+
+- question: Where is your customer support located?
+  answer: All of our customer and technical support is conducted from our Billerica, MA offices.  We do not utilize 3rd-party vendors, or outsource our customer service, but, instead, rely on in-house staff to handle all of your service and support issues.
+  section: Services
+
+- question: Do you provide client training on your system?
+  answer: Computer Fulfillment, Inc can provide on-site or remote system training for all users.
+  section: Services
+
+- question: How many emails can I send?
+  answer: Send 10 or 10 million emails.  We've invested heavily in our IT infrastructure to ensure that our customers can quickly and easily blast large email marketing efforts quickly and easily.
+  section: Services
+
+- question: Do you sell software?
+  answer: No, we offer web-based SaaS (software-as-a-service) solutions which means we handle any updates or patches required and you can rest-assured your data is hosted on the most up-to-date version available.
+  section: Services
+
+- question: Do you have a disaster recovery plan?
+  answer: Electronic documents are saved each weekday night and weekly back-ups are stored off-site.  Hard-copy documents are stored in their original form on-site.  BPA and ABC have disaster recovery procedures to authenticate documents lost in transit, fire or flood, and the costs of these processes are covered by Computer Fulfillment's insurance.
+  section: Data
+
+- question: What is your Privacy Policy?
+  answer: Privacy management is both client- and file-specific of use of email addresses, fax numbers and telephone numbers.  Each may be single- or multi-tiered according to customer requirements.  Most often, our clients request a multi-tiered structure which allows specific permission levels for both type of contact and type of content (i.e.; subscription management, event notifications, news and updates, or third-party notifications). <br /> <br /> We recommend all electronic information collection forms provide a link to corporate or product privacy policies and all hard copy documents or scripts include privacy domain name or link.
+  section: Data
+
+- question: What type of reporting is available?
+  answer: |
+    Standard circulation reports for each issue served are automatically generated as downloadable PDF files and include:
+
+    <ul class="about-us-list">
+    <li>List code versus geographic destination</li>
+    <li>BPA Paragraph 3a</li>
+    <li>BPA Paragraph 3b projected through audit year</li>
+    <li>BPA Paragraph 3c</li>
+    <li>BPA Paragraph 4</li>
+    <li>Effort Code report</li>
+    </ul>
+
+    <p><br />In addition, you can create unlimited ad hoc reports using any data element in any record type. The only limit is your imagination. Typical reports include:</p>
+
+    <ul class="about-us-list">
+    <li>Opt-in / Opt-outs</li>
+    <li>Previously deployed messages</li>
+    <li>Email opens & click-throughs</li>
+    <li>Do Not Call</li>
+    <li>Do Not Fax</li>
+    <li>Do Not Email</li>
+    </ul>
+  section: Data

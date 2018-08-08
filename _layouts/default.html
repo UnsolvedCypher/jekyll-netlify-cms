@@ -1,0 +1,42 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+
+{% include head.html %}
+
+<body id="body">
+
+<!-- Header Start -->
+{% include header.html %}
+
+<section class="page-title {{ page.bg-class }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>{{ page.heading }}</h1>
+          <p> {{ page.subheading }} </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ content }}
+
+{% include footer.html %}
+
+{% include scripts.html %}
+
+
+
+
+  </body>
+  </html>

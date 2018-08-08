@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://cf-site.netlify.com/* https://www.computerfulfillment.com/:splat 301!

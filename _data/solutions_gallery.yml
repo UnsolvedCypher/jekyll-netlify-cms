@@ -1,0 +1,51 @@
+- title: E-Circ
+  description: Access record counts and download subscriber files based on any field in your fulfillment database. The Online Customer Service System provides qualification, source and demographic information on subscribers. A unique identification number is assigned to each subscriber and is one of several ways to obtain their record.
+  image: e-circ.png
+
+- title: CircView Main Screen
+  description: CircView software is hosted by CF and available 24 x 7 via internet. Customer service, order entry, issue fulfillment and revenue earning are among the many available features in CircView. The system is integrated with Authorize.net or PayPal payment portals allowing for funds to go directly into your bank account. Built-in and customizable reports are available for financial reconciliation.
+  image: circview-main.jpg
+
+- title: MediaView
+  description: MediaView is an audience management solution that integrates data across brand channels into one actionable resource.
+  image: mediaview.png
+
+- title: List Change
+  description: Monitor you list growth over time.
+  image: list-change.jpg
+
+- title: Query Builder
+  description: Use the Query Builder Manager to create, modify, copy and refresh simple or complex reports by brand channel or across channels.  Identify target markets and determine audience engagement easily and quickly without any programming experience.
+  image: query-builder.jpg
+
+- title: Campaign Preview
+  description: Use the Campaign Preview to view your email messages in up to 44 various browser configurations including those for mobile devices.
+  image: campaign-preview.jpg
+
+- title: Email Analytics
+  description: Results of your email marketing can be viewed by brand and across all brands in your database over the past 30 days.
+  image: email-analytics.jpg
+
+- title: Delivery Report
+  description: Detailed Delivery Reporting is available for every message and groups of messages.
+  image: delivery-report.jpg
+
+- title: Message Clicks
+  description: See how many people have clicked through certain links in your message then download a list of those individuals to share with your sales and editorial teams or advertisers.
+  image: message-clicks.jpg
+
+- title: Open By Client
+  description: Who is opening your messages and what devices are they using?  Graphs in the Email Manager will show you.
+  image: open-by-client.jpg
+
+- title: Customer Service Center
+  description: CF’s Online Customer Service Center is available to all our publishing partners.  Your customers can begin or modify their subscriptions to publications and e-news products directly online.  Renewal information can be pre-populated for ease. Options to change physical or email address are available as well as an FAQ to answer commonly asked questions. All information gathered via the Center is updated in both eCirc and MediaView in an overnight process.
+  image: cs-desktop.png
+
+- title: Webforms
+  description: Forms within the Center render equally well on desktops and mobile devices. Every form is completely customizable, from the wording to the layout.
+  image: mobile-form.png
+
+- title: Paid Forms
+  description: We also offer paid subscription forms. They can be modified to your liking, and you can offer different subscription plans at different rates.
+  image: paid-form.png
